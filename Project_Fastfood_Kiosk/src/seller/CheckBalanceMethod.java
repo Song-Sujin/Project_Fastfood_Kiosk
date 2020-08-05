@@ -17,7 +17,6 @@ public class CheckBalanceMethod {
 
    // 잔고 출력 및 추가 메소드
    void checkBalance() {
-      Money[] money;
 
       System.out.println("[잔고 확인]");
 
